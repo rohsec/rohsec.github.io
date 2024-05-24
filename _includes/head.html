@@ -105,19 +105,6 @@
   
     {% include metadata-hook.html %}
     {% if page.minicoi_js %}
-    <!-- <script src="/assets/scripts/minicoi.js" scope="./"></script> -->
-    <script>
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('/assets/scripts/sw.min.js')
-                    .then((registration) => {
-                        console.log('Custom Service Worker registered:', registration);
-                    })
-                    .catch((error) => {
-                        console.error('Custom Service Worker registration failed:', error);
-                    });
-            });
-        }
-    </script>
+    <script src="/assets/scripts/minicoi.js" scope="./"></script>
     {% endif %}
   </head>
