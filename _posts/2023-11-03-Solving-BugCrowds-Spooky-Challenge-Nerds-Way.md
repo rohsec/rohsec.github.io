@@ -12,7 +12,7 @@ The Challenge was announced on Oct 30 at 09:53 PM, I was lucky enough to spot th
 
 [![blog4a.png](https://i.postimg.cc/59vZdbY4/blog4a.png)](https://postimg.cc/23kHnp7M)
 
-The Challenge is created by ZWink and revolves around basic Authentication Bypass to retrive a hidden secert flag/code. The challenge can be found [here](http://spooky.bugcrowd.zw.ink/klown.cfm)
+The Challenge is created by ZWink and revolves around basic Authentication Bypass to retrive a hidden secert flag/code. The challenge can be found [here](https://spooky.bugcrowd.zw.ink/klown.cfm)
 
 ---
 ## Walkthrough
