@@ -109,7 +109,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('/path/to/minicoi-sw.js')
+                navigator.serviceWorker.register('/assets/scripts/sw.min.js')
                     .then((registration) => {
                         console.log('Custom Service Worker registered:', registration);
                     })
