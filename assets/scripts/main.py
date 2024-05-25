@@ -3,10 +3,9 @@ from time import sleep
 from pyscript import document, fetch,window
 
 ## remove load banner
-__terminal__.resize(100,100)
+__terminal__.resize(100,30)
 player=document.getElementById('xxx')
 xx=document.getElementById('load')
-xx.remove()
 bred='\033[1;31m'
 bblue='\033[1;34m'
 bgreen='\033[1;32m'
