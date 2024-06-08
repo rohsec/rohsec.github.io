@@ -5,7 +5,8 @@ order: 4
 ---
 <script src="../mini-coi.js" scope="./"></script>
 <link rel="stylesheet" href="/assets/css/styles3.css">
-<script type="module" src="https://cdn.jsdelivr.net/npm/@pyscript/core/dist/core.js"></script>
+<link rel="stylesheet" href="https://pyscript.net/releases/2024.6.1/core.css">
+<script type="module" src="https://pyscript.net/releases/2024.5.2/core.js"></script>
 <script type="mpy" src="/assets/scripts/main.py" async terminal worker></script>
 <div id="test" class="player">
     <audio controls id="xxx" loop>
