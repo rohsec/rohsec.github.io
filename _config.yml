@@ -38,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 𝝘𝝝𝝜𝗦𝝨𝗖
+  name: rohsec
   email: rohit0x01@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/63975446?v=4
+avatar: https://avatars.githubusercontent.com/u/63975446?v=4 #https://pbs.twimg.com/profile_images/1930561609283305472/Mlp514WQ_400x400.jpg 
 
 # boolean type, the global switch for ToC in posts.
 toc: true
