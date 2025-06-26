@@ -19,7 +19,7 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 𝝘𝝝𝝜𝗦𝝨𝗖                          # the main title
+title: ROHSEC #𝝘𝝝𝝜𝗦𝝨𝗖                          # the main title
 
 tagline: BUGBOUNTY HUNTER   # it will display as the sub-title
 
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/63975446?v=4 #https://pbs.twimg.com/profile_images/1930561609283305472/Mlp514WQ_400x400.jpg 
+avatar: https://pbs.twimg.com/profile_images/1938108191449231360/3URlEIie_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
