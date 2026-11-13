@@ -19,19 +19,19 @@ title: ROHIT # the main title
 tagline: HACKER | BUGBOUNTY HUNTER # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Rohit Yadav (rynosec) is a full-time Bug Bounty Hunter, Ethical Hacker, and HackerOne Ambassador from India. 
+  Rohit Yadav (rohsec) is a full-time Bug Bounty Hunter, Ethical Hacker, and HackerOne Ambassador from India. 
   This personal blog documents web application security research, bug bounty writeups, vulnerability discoveries, 
   hacking tools, automation projects, and insights from real-world penetration testing and security research.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://ryno.sh"
+url: "https://rohsec.com"
 
 github:
-  username: rynosec # change to your GitHub username
+  username: rohsec # change to your GitHub username
 
 twitter:
-  username: rynosec # change to your Twitter username
+  username: rohsec # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -40,8 +40,8 @@ social:
   email: rohit0x01@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/rynosec # change to your Twitter homepage
-    - https://github.com/rynosec # change to your GitHub homepage
+    - https://twitter.com/rohsec # change to your Twitter homepage
+    - https://github.com/rohsec # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/rohsec

@@ -6,7 +6,7 @@ order: 5
 
 ![SocialBanner](https://pbs.twimg.com/profile_banners/1162220504784105472/1778780059/1500x500)
 
-Hi 👋! I am Rohit a.k.a [RYNO](https://x.com/rynosec). I am a full time BugBounty Hunter and HackerOne Ambassador. I find and responsibly report impactful security flaws in modern web applications, APIs, and authentication/business-logic workflows.
+Hi 👋! I am [Rohit](https://x.com/rohsec). I am a full time BugBounty Hunter and HackerOne Ambassador. I find and responsibly report impactful security flaws in modern web applications, APIs, and authentication/business-logic workflows.
 
 ## Portfolio Highlights
 
@@ -55,16 +55,16 @@ Hi 👋! I am Rohit a.k.a [RYNO](https://x.com/rynosec). I am a full time BugBou
 ## Contact & Collaboration
 
 <div class="about-contact" style="display:flex; gap:.8rem; flex-wrap:wrap; margin-top:.35rem;">
-  <a class="about-contact-icon" href="https://github.com/rynosec" target="_blank" rel="noopener noreferrer" aria-label="GitHub" style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:999px; border:1px solid var(--main-border-color); background:var(--card-bg); font-size:1.1rem; transition:all .2s ease;">
+  <a class="about-contact-icon" href="https://github.com/rohsec" target="_blank" rel="noopener noreferrer" aria-label="GitHub" style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:999px; border:1px solid var(--main-border-color); background:var(--card-bg); font-size:1.1rem; transition:all .2s ease;">
     <i class="fab fa-github"></i>
   </a>
-  <a class="about-contact-icon" href="https://twitter.com/rynosec" target="_blank" rel="noopener noreferrer" aria-label="X/Twitter" style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:999px; border:1px solid var(--main-border-color); background:var(--card-bg); font-size:1rem; transition:all .2s ease;">
+  <a class="about-contact-icon" href="https://twitter.com/rohsec" target="_blank" rel="noopener noreferrer" aria-label="X/Twitter" style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:999px; border:1px solid var(--main-border-color); background:var(--card-bg); font-size:1rem; transition:all .2s ease;">
     <i class="fa-brands fa-x-twitter"></i>
   </a>
   <a class="about-contact-icon" href="https://www.linkedin.com/in/rohsec" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:999px; border:1px solid var(--main-border-color); background:var(--card-bg); font-size:1rem; transition:all .2s ease;">
     <i class="fab fa-linkedin-in"></i>
   </a>
-  <a class="about-contact-icon" href="https://ryno.sh" target="_blank" rel="noopener noreferrer" aria-label="Website" style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:999px; border:1px solid var(--main-border-color); background:var(--card-bg); font-size:1rem; transition:all .2s ease;">
+  <a class="about-contact-icon" href="https://rohsec.com" target="_blank" rel="noopener noreferrer" aria-label="Website" style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:999px; border:1px solid var(--main-border-color); background:var(--card-bg); font-size:1rem; transition:all .2s ease;">
     <i class="fas fa-globe"></i>
   </a>
   <a class="about-contact-icon" href="mailto:rohit0x01@gmail.com" aria-label="Email" style="display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:999px; border:1px solid var(--main-border-color); background:var(--card-bg); font-size:1rem; transition:all .2s ease;">
